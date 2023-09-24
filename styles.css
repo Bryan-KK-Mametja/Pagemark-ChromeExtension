@@ -1,0 +1,106 @@
+.boarder{
+	border: none;
+	padding: 10px 15px;
+	top: 50%;
+	left: 50%;
+	border-radius: 10px;
+	width: 300px;
+	/*background-image: linear-gradient(#20BF55, #01BAEF);*/
+}
+
+
+h3, h4{
+	display: inline;
+}
+
+h1, h2{
+	display: inline;
+}
+
+h1{
+	font-weight: 100;
+	font-size: large;
+}
+
+h2{
+	font-weight: 500;
+}
+
+
+h3{
+	font-weight: 100;
+	font-size: large;
+}
+
+h4{
+	font-weight: 500;
+}
+
+.optionsBody{
+	padding: 10px;
+	border-radius: 10px;
+	border: 1px solid black;
+	width: 20%;
+}
+
+textarea{
+	border-radius: 10px;
+	border:  1px solid black;
+	background-color: white;
+	font-family: Arial;
+    font-size: 13px;
+	height: 85px;
+	width: 295px;
+	padding: 6px 1.5px;
+	font-family: arial;
+	font-size: 13px;
+}
+
+button{
+	border: none;
+	border-radius: 10px;
+	height: 25px;
+}
+
+.delete{
+	border: none;
+	border-radius: 10px;
+	height: 25px;
+	background-color: rgb(181, 238, 255);;
+	text-align: left;
+}
+
+.delete:hover{
+	opacity: 0.10;
+	color: rgb(255, 172, 255);
+}
+
+button:hover{
+	opacity: 0.8;
+}
+
+.searchbar{
+	border:  1px solid black;
+	border-radius: 10px;
+	padding: 5px;
+	width: 288px;
+	/*padding-left: 5px;*/
+}
+
+li{
+	list-style-type: circle;
+	border: 2px white;
+	border-radius: 10px;
+	padding: 5px;
+	width: 288px;
+	background-color: rgb(181, 238, 255);
+}
+
+hr{
+	color: gray;
+}
+
+.output{
+	font-size: smaller;
+	font-family: 'Arial';
+}
