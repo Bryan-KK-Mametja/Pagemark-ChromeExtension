@@ -4,4 +4,5 @@ A Chrome extension designed to enhance your reading experience on Wiki pages and
 
 Features:
 Highlight and Bookmark: Select any text on a Wiki page and create a bookmark with a clickable link to that exact text.
+
 Instant Navigation: Once the text is marked, the extension generates a link you can click anytime to instantly return to the marked location.
